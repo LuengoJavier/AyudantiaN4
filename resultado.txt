@@ -1,0 +1,74 @@
+ZOMBIE te ha inflingido 40 puntos de daño
+Vida restante del jugador: 90
+Silver ha inflingido 70 puntos de daño a ZOMBIE
+Vida restante del enemigo: 0
+
+¡Has ganado la batalla contra ZOMBIE!
+Haz recibido una mejora en tus atributos
+
+Nombre: Silver
+Salud: 140
+Fuerza: 75
+Velocidad: 32
+
+
+ARAÑA te ha inflingido 30 puntos de daño 
+Vida restante del jugador: 110
+Silver ha inflingido 75 puntos de daño a ARAÑA
+Vida restante del enemigo: 0
+
+¡Has ganado la batalla contra ARAÑA!
+Haz recibido una mejora en tus atributos
+
+Nombre: Silver
+Salud: 150
+Fuerza: 80
+Velocidad: 34
+
+
+ESQUELETO te ha inflingido 50 puntos de daño 
+Vida restante del jugador: 100
+Silver ha inflingido 80 puntos de daño a ESQUELETO
+Vida restante del enemigo: 0
+
+¡Has ganado la batalla contra ESQUELETO!
+Haz recibido una mejora en tus atributos
+
+Nombre: Silver
+Salud: 160
+Fuerza: 85
+Velocidad: 36
+
+
+JEFE FINAL te ha inflingido 80 puntos de daño 
+Vida restante del jugador: 80
+Silver ha inflingido 85 puntos de daño a JEFE FINAL
+Vida restante del enemigo: 15
+
+JEFE FINAL te ha inflingido 80 puntos de daño 
+Vida restante del jugador: 0
+Silver ha inflingido 85 puntos de daño a JEFE FINAL
+Vida restante del enemigo: 0
+
+Silver ha sido derrotado por JEFE FINAL
+Atributos del JEFE FINAL
+JEFE FINAL
+Vida: 100
+Fuerza: 80
+Velocidad: 80
+
+Silver ha inflingido 85 puntos de daño a Gold
+Vida restante de Gold es: 115
+Gold ha inflingido 80 puntos de daño a Silver
+Vida restante de Silver es: 80
+
+Silver ha inflingido 85 puntos de daño a Gold
+Vida restante de Gold es: 30
+Gold ha inflingido 80 puntos de daño a Silver
+Vida restante de Silver es: 0
+
+Gold a asecinado a Silver
+Nombre: Gold
+Salud: 200
+Fuerza: 80
+Velocidad: 66
